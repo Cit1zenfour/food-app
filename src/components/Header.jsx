@@ -5,7 +5,7 @@ const Header = () => {
     return (
         <nav className='green darken-1'>
             <div className='nav-wrapper'>
-                <Link to='/' className='brand-logo'>Food Appgit init</Link>
+                <Link to='/' className='brand-logo'>Food App</Link>
                 {/*<img className='fortnite-logo brand-logo' src="https://pngimg.com/uploads/fortnite/fortnite_PNG25.png" alt="fortnite"/>*/}
                 <ul id='nav-mobile' className='right hide-on-med-and-down'>
                     <li><Link to="/about">About</Link></li>
